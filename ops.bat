@@ -6,6 +6,7 @@ echo	2.build
 echo	3.push
 echo	4.pull
 
+set NODE_OPTIONS=--openssl-legacy-provider
 set /p n=enter the operation number: 
 
 if "%n%"=="1"	npm run docs:dev

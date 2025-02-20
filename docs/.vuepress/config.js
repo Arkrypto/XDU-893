@@ -4,7 +4,7 @@ module.exports = {
     title: "XDU 953 Docs",
     description: '谨以纪念闹麻的考研一年',
     dest: './dist/',
-    base: '/XDU-953/',
+    base: '/XDU-893/',
     port: '8080',
     head: [
 		['link', { rel: 'icon', href: '/leaf.ico' }],
