@@ -2,7 +2,7 @@
 
 module.exports = {
     title: "XDU 953 Docs",
-    description: '谨以纪念闹麻的考研一年',
+    description: '考个Damn',
     dest: './dist/',
     base: '/XDU-893/',
     port: '8080',
